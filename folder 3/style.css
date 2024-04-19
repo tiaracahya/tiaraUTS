@@ -1,0 +1,18 @@
+.box{
+    background-color: rgb(84, 78, 156);
+    padding: 20px;
+    color: aliceblue;
+    border-radius: px;
+    margin-bottom: 10px;
+    border-bottom: 10px solid rgb(219, 209, 209);
+    
+}
+
+.box1{
+    background-color: rgb(255, 252, 252);
+    padding: 20px;
+    color: black;
+    border-radius: 10px; 
+    border-bottom: 10px solid rgb(219, 209, 209);
+    
+}

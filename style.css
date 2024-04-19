@@ -1,0 +1,27 @@
+
+.box {
+    width: 300px;
+    height: 300px;
+    margin: 50px auto;
+    padding: 150px;
+    background-image: url(./images/background.png);
+    background-size: cover; /* Mengisi seluruh area dengan latar belakang */
+    background-repeat: no-repeat; /* Mencegah latar belakang berulang */
+    background-position: center; /* Pusatkan latar belakang */
+}
+
+
+#inner-box {
+    border: 2px solid ;
+    width: 90%;
+    height: 60%;
+    padding: 20px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.open{
+        border: 2px solid ;
+        width: 100%;
+        border-radius: 100px;
+}
